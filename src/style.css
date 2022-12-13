@@ -1,0 +1,46 @@
+.light{
+  background: white;
+  color: black;
+}
+.dark{
+  background: black;
+  color: white;
+}
+.aa{
+  border-radius: 50%;
+  margin-left: -10%;
+  margin-top: 4%;
+}
+.ae{
+  background-image: linear-gradient(blue, lime);
+  border-radius: 50%;
+  
+}
+.b{
+  background-image: linear-gradient(to left,blue, lime);
+  background-clip: text;
+  color: transparent;
+  font-family: "Lobster Two";
+}
+.navbar{
+  cursor: pointer;
+}
+.aer{
+  width: 100%;
+}
+.mony{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ett a{
+  text-decoration: none;
+  color: black;
+}
+.dark .ett a{
+  color: whitesmoke;
+}
+.dark .ett {
+  border: 1px dotted white;
+  background: gold;
+}
